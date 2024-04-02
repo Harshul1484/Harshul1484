@@ -10,7 +10,7 @@
 ```javascript
 var Harshul_Rathod = {
   pronouns: "he" | "him",
-  code: [ Java, Python, C++, Javascript ],
+  code: [ HTML, CSS, Javascript, Java, Python, C/C++,  ],
   tools: [ -- ],
   frameworks: [ -- ],
   experience: {
