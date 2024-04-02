@@ -19,12 +19,6 @@ var Harshul_Rathod = {
     Befriends.ai: "--"
   },
 
-  techCommunities: {
-    Member: "--",
-    Member : "--",
-    Member: "--",
-    Member: "--"
-  },
   about: "Bachelor of Computer Application student at Maharaja Sayajirao University, skilled in web development.\n
           I have worked with web, mobile, graphic designing and have experience in XYZ.\n
           Currently, actively exploring emerging technologies to remain current with industry advancements."
