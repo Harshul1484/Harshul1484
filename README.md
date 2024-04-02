@@ -19,7 +19,7 @@ var Harshul_Rathod = {
     Befriends.ai: "--"
   },
 
-  about: "Bachelor of Computer Application student at Maharaja Sayajirao University, skilled in web development.\n
+  about: "Bachelor of Computer Application student at Maharaja Sayajirao University, skilled in web development.
           I have worked with web development, DBMS, Iot, performance optimization, APIs, version control, microcontroller.\n
           Currently, actively exploring emerging technologies to remain current with industry advancements."
 }
