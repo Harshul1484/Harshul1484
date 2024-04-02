@@ -25,10 +25,11 @@ var Harshul_Rathod = {
     Member: "--",
     Member: "--"
   },
-  about: "I am a computer science undergrad & NLP Researcher & Software Engineer who is passionate about learning and creating solutions.\n
-          I have worked with web, mobile, and have experience in Machine Learning and Deep Learning.\n
-          Currently, I am exploring many horizons and participating in competitive programming."
+  about: "Bachelor of Computer Application student at Maharaja Sayajirao University, skilled in web development.\n
+          I have worked with web, mobile, graphic designing and have experience in XYZ.\n
+          Currently, actively exploring emerging technologies to remain current with industry advancements."
 }
+
 
 
 ```
