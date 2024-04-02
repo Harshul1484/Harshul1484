@@ -46,11 +46,3 @@ Here are some noteworthy projects I've worked on:
 
 1. **--** (Web)
    - !!__!!
-
-## Get in Touch
-
-If you have any questions or would like to collaborate, reach out to me. I'm always excited to discuss new ideas and opportunities.
-
-- Email: --
-- LinkedIn: --
-- Twitter: --
