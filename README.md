@@ -20,7 +20,7 @@ var Harshul_Rathod = {
   },
 
   about: "Bachelor of Computer Application student at Maharaja Sayajirao University, skilled in web development.\n
-          I have worked with web, mobile, graphic designing and have experience in XYZ.\n
+          I have worked with web development, DBMS, Iot, performance optimization, APIs, version control, microcontroller.\n
           Currently, actively exploring emerging technologies to remain current with industry advancements."
 }
 
