@@ -3,8 +3,6 @@
 
 ###  A little about me...  
 
-<br/>
-
 ```javascript
 var Harshul_Rathod = {
   pronouns: "he" | "him",
