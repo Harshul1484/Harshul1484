@@ -11,8 +11,8 @@
 ```javascript
 var Harshul_Rathod = {
   pronouns: "he" | "him",
-  code: [ HTML, CSS, Javascript, Java, Python, C/C++,  ],
-  tools: [ -- ],
+  code: [ HTML, CSS, JavaScript, C++, C, Java, Python ],
+  tools: [ Git, GitHub, Postman, Photoshop, Illustrator, Fresco, CLO Standalone ],
   frameworks: [ -- ],
   experience: {
     Befriends.ai: "--",
