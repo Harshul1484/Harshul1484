@@ -9,12 +9,6 @@ var Harshul_Rathod = {
   code: [ HTML, CSS, JavaScript, C++, C, Java, Python ],
   tools: [ Git, GitHub, Postman, Photoshop, Illustrator, Fresco, CLO Standalone ],
   frameworks: [ -- ],
-  experience: {
-    Befriends.ai: "--",
-    Befriends.ai: "--",
-    Befriends.ai: "--"
-  },
-
   about: "Bachelor of Computer Application student at Maharaja Sayajirao University, skilled in web development.
           I have worked with web, dbms, Iot, APIs, version control, microcontroller.
           Currently, actively exploring emerging technologies to remain current with industry advancements."
