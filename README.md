@@ -19,7 +19,6 @@ var Harshul_Rathod = {
 ## Skills
 
 - Programming Languages: HTML, CSS, JavaScript, C++, C, Java, Python, XML, Shell.
-- Web & Software Development:
 - Tools: Git, GitHub, Postman, Photoshop, Illustrator, Fresco, CLO Standalone.
 - Techstack:
 - Database: MongoDB, MySQL, PostgreSQL, CockroachDB.
