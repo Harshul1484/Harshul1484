@@ -1,27 +1,42 @@
-<h1 align="center">Hi there! 👋 I'm Harshul Rathod</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="120" />
-</p>
+# 🚀 Harshul's GitHub Badge Farm
 
-<p align="center">
-  <b>Web Developer • Designer • Tech Explorer</b>  
-</p>
+> Collecting GitHub badges like Thanos collects Infinity Stones 💎  
+> _A journey from dev to badge legend._
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub followers" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="Visitor badge" />
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" alt="Stars badge" />
-</p>
+![GitHub Stars](https://img.shields.io/github/stars/your-username/badge-farm?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/your-username/badge-farm?style=social)
+![GitHub License](https://img.shields.io/github/license/your-username/badge-farm)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/badge-farm)
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Goal
 
-```js
-const Harshul_Rathod = {
-  pronouns: "he" | "him",
-  code: ["HTML", "CSS", "JavaScript", "C++", "C", "Java", "Python"],
-  tools: ["Git", "GitHub", "Postman", "Photoshop", "Illustrator", "Fresco", "CLO Standalone"],
-  currentlyLearning: "AR-integrated fashion tech & SaaS development",
-  funFact: "I once built a game using hand gestures instead of keyboard input 🖐️🎮",
-};
+Become a GitHub **Badge Master** by unlocking every achievement 🏆.
+
+| Badge | Status |
+|-------|--------|
+| Pull Shark 🦈 | ✅ Unlocked |
+| Quickdraw 🤠 | ✅ Unlocked |
+| YOLO 😎 | ✅ Unlocked |
+| Pair Extraordinaire 🤝 | 🔜 Coming Soon |
+| Readme Rockstar 🎸 | 🔥 You're looking at it |
+| Galaxy Brain 🧠 | 🕵️‍♂️ Hunting |
+| Forker 🍴 | ⏳ In Progress |
+| Issue Opener 🐞 | ⏳ In Progress |
+| Pull Blaster 🚀 | ⏳ In Progress |
+| Release Radar 📦 | ⏳ In Progress |
+| Dependabot Detective 🕵️ | ⏳ In Progress |
+
+---
+
+## 💻 Project Structure
+
+```bash
+badge-farm/
+├── README.md        # This file
+├── pair-extraordinaire/   # Co-authored commit tests
+├── dependabot-test/       # Dependabot auto updates
+├── issue-templates/       # For opening high-quality issues
+└── .github/
+    └── workflows/         # GitHub Actions (optional)
