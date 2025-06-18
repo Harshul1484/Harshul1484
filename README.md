@@ -1,41 +1,64 @@
-# 🧿 Harshul's GitHub Badge Quest
+# 🧱 GitHub Badge Farming Lab
 
-> ✨ On a mission to collect all GitHub badges like Thanos collects Infinity Stones 💠
-
-![GitHub Stars](https://img.shields.io/github/stars/Harshul1484/badge-farming?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Harshul1484/badge-farming?style=social)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Harshul1484/badge-farming)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Harshul1484/badge-farming)
+> Built by [Harshul1484](https://github.com/Harshul1484) to **collect GitHub achievements like Infinity Stones** 🧤💎  
+> Follow along as we unlock every GitHub badge one commit at a time!
 
 ---
 
-## 🏆 Current Badges Unlocked
+## 🚀 Current Badges Collected
 
 | Badge | Description |
 |-------|-------------|
-| 🦈 **Pull Shark** | Merged pull requests |
-| ⚡ **Quickdraw** | Opened issues/PRs quickly |
-| 🚀 **YOLO** | Made spontaneous contributions |
+| 🟣 YOLO | Created a repo with a single commit |
+| ⚡ Quickdraw | Merged a PR within 5 minutes |
+| 🦈 Pull Shark | Merged a pull request |
+| 🔄 More Incoming... | Stay tuned 👀 |
 
 ---
 
-## 🎯 Target Badges In Progress
+## 🧩 Objectives
 
-- 👨‍💻 **Pair Extraordinaire** → Co-author a commit  
-- 💡 **Galaxy Brain** → Answer accepted in GitHub Discussions  
-- 🧑‍🎨 **Readme Rockstar** → *You're looking at it!*  
-- 🍴 **Forker** → Forking repos like mad  
-- 🐛 **Issue Opener** → Logging issues everywhere  
-- 🤖 **Dependabot Detective** → Merging bot PRs  
-- 🚢 **Release Radar** → Publishing releases  
-- 💥 **Pull Blaster** → PR PR PR!  
+- [x] Create fancy README ✅
+- [ ] Co-author a commit (`Pair Extraordinaire`)
+- [ ] Answer GitHub Discussions (`Galaxy Brain`)
+- [ ] Publish a release (`Release Radar`)
+- [ ] Merge Dependabot PRs (`Dependabot Detective`)
+- [ ] Fork many repos (`Forker`)
+- [ ] Open helpful issues (`Issue Opener`)
+- [ ] Merge PR bursts (`Pull Blaster`)
+- [ ] Hit the stars ⭐ (`Starstruck`)
 
 ---
 
-## 🧪 Experiments & Farming Tricks
+## 📊 GitHub Stats
 
-```bash
-# Sample Co-authored Commit
-git commit -m "Add epic feature
+![Harshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshul1484&show_icons=true&theme=radical)
 
-Co-authored-by: Harshul Rathod <harshul@example.com>"
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshul1484&layout=compact&theme=radical)
+
+---
+
+## 🧠 Fun Fact
+
+> “There’s a badge for almost everything... except not having badges. So let’s fix that.”
+
+---
+
+## 💡 Inspiration
+
+This repo is a living log of creative ways to explore GitHub’s hidden gamification.  
+If you’re reading this, make your own badge lab and join the hunt!
+
+---
+
+## 🧪 Badges via Shields.io
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Harshul1484/github-badge-farming-lab?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Harshul1484/github-badge-farming-lab?style=social)
+
+---
+
+## 🙌 Connect with Me
+
+- GitHub: [@Harshul1484](https://github.com/Harshul1484)
+- LinkedIn: [Harshul Rathod](https://linkedin.com/in/harshulrathod) _(if you have one)_
