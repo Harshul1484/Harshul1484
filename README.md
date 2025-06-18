@@ -2,10 +2,10 @@
 
 > ✨ On a mission to collect all GitHub badges like Thanos collects Infinity Stones 💠
 
-![GitHub Stars](https://img.shields.io/github/stars/harshul1484/badge-farming?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/harshul1484/badge-farming?style=social)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/harshul1484/badge-farming)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/harshul1484/badge-farming)
+![GitHub Stars](https://img.shields.io/github/stars/Harshul1484/badge-farming?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Harshul1484/badge-farming?style=social)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Harshul1484/badge-farming)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Harshul1484/badge-farming)
 
 ---
 
