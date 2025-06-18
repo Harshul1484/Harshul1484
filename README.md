@@ -1,6 +1,3 @@
-
-> Built by [Harshul1484](https://github.com/Harshul1484) to **collect GitHub achievements like Infinity Stones** 🧤💎  
-> Follow along as we unlock every GitHub badge one commit at a time!
 ## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> 
 ## I'm Harshul Rathod  
 
