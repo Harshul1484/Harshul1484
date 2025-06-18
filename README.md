@@ -1,64 +1,27 @@
-# 🧱 GitHub Badge Farming Lab
 
 > Built by [Harshul1484](https://github.com/Harshul1484) to **collect GitHub achievements like Infinity Stones** 🧤💎  
 > Follow along as we unlock every GitHub badge one commit at a time!
+## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> 
+## I'm Harshul Rathod  
 
----
+###  A little about me...  
 
-## 🚀 Current Badges Collected
+```javascript
+var Harshul_Rathod = {
+  pronouns: "he" | "him",
+  code: [ HTML, CSS, JavaScript, C++, C, Java, Python ],
+  tools: [ Git, GitHub, Postman, Photoshop, Illustrator, Fresco, CLO Standalone ],
+  frameworks: [ -- ],
+  about: "Bachelor of Computer Application student at Maharaja Sayajirao University, skilled in web development.
+          I have worked with web, dbms, Iot, APIs, version control, microcontroller.
+          Currently, actively exploring emerging technologies to remain current with industry advancements."
+}
 
-| Badge | Description |
-|-------|-------------|
-| 🟣 YOLO | Created a repo with a single commit |
-| ⚡ Quickdraw | Merged a PR within 5 minutes |
-| 🦈 Pull Shark | Merged a pull request |
-| 🔄 More Incoming... | Stay tuned 👀 |
+```
 
----
+## Skills
 
-## 🧩 Objectives
-
-- [x] Create fancy README ✅
-- [ ] Co-author a commit (`Pair Extraordinaire`)
-- [ ] Answer GitHub Discussions (`Galaxy Brain`)
-- [ ] Publish a release (`Release Radar`)
-- [ ] Merge Dependabot PRs (`Dependabot Detective`)
-- [ ] Fork many repos (`Forker`)
-- [ ] Open helpful issues (`Issue Opener`)
-- [ ] Merge PR bursts (`Pull Blaster`)
-- [ ] Hit the stars ⭐ (`Starstruck`)
-
----
-
-## 📊 GitHub Stats
-
-![Harshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshul1484&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshul1484&layout=compact&theme=radical)
-
----
-
-## 🧠 Fun Fact
-
-> “There’s a badge for almost everything... except not having badges. So let’s fix that.”
-
----
-
-## 💡 Inspiration
-
-This repo is a living log of creative ways to explore GitHub’s hidden gamification.  
-If you’re reading this, make your own badge lab and join the hunt!
-
----
-
-## 🧪 Badges via Shields.io
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Harshul1484/github-badge-farming-lab?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Harshul1484/github-badge-farming-lab?style=social)
-
----
-
-## 🙌 Connect with Me
-
-- GitHub: [@Harshul1484](https://github.com/Harshul1484)
-- LinkedIn: [Harshul Rathod](https://linkedin.com/in/harshulrathod) _(if you have one)_
+- Programming Languages: HTML, CSS, JavaScript, C++, C, Java, Python, XML, Shell.
+- Tools: Git, GitHub, Postman, Photoshop, Illustrator, Fresco, CLO Standalone.
+- Techstack:
+- Database: MongoDB, MySQL, PostgreSQL, CockroachDB.
